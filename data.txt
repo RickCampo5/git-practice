@@ -1,3 +1,4 @@
 Name: Ricardo Campos
 Age: 27
 Favorite Color: Blue
+Dia: Viernes
